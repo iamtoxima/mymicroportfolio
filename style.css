@@ -1,0 +1,17 @@
+.navbar {
+        background-color: #d00000;
+      width: 100%; 
+    overflow: hidden; 
+    }
+    
+    .welcome-section {
+    	background-color: #ABBAEA;
+    }
+    
+    .projects {
+    	background-color: #FBD603;
+    }
+    
+    .footer {
+    	background-color: #FBD603;
+    }
